@@ -1,4 +1,5 @@
-DengueTimeSeriesAnalysis
+# DengueTimeSeriesAnalysis
+
 This repository contains a comprehensive analysis of dengue fever cases in San Juan and Iquitos, using time series data. The study includes:
 
 **Exploratory Data Analysis (EDA)**: Handling missing values, feature engineering, and visualizing data trends.
